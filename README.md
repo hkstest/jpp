@@ -1,2 +1,0 @@
-# jpp
-JioFiber Plan Predictor
